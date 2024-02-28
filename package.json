@@ -29,7 +29,7 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
-    // package.json
+   
 {
   "name": "my-npm-project",
   "version": "1.0.0",
