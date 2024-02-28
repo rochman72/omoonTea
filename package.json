@@ -29,6 +29,23 @@
     "extends": [
       "@commitlint/config-conventional"
     ]
+    // package.json
+{
+  "name": "my-npm-project",
+  "version": "1.0.0",
+  "description": "Proyek npm sederhana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["npm"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+  }
+  
   },
   "devDependencies": {
     "@kleros/kathari": "^0.23.0",
